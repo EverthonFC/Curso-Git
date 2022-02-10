@@ -1,3 +1,3 @@
 
 
-let nome = "everton"
+let nome = ""
