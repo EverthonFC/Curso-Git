@@ -1,2 +1,3 @@
-let nome = ''
-prompt "Digite seu nome"
+
+
+let nome = "everton"
